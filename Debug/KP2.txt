@@ -1,0 +1,19 @@
+integer function inc(integer a)
+{
+type integer c;
+c = a + 1;
+return c;
+}
+
+main
+{
+type integer g;
+type word l;
+g = 1488;
+g = sqrt(g);
+l = 'TEST';
+write(l);
+write(g);
+}
+
+

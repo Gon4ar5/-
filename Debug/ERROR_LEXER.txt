@@ -1,0 +1,11 @@
+main
+{
+type integer g;
+type integer g;
+g = 5;
+write (g);
+}
+
+
+
+

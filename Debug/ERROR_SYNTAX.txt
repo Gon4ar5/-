@@ -1,0 +1,10 @@
+main
+{
+type integer a;
+a = a ++ 1;
+write (a);
+}
+
+
+
+
